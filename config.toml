@@ -3,6 +3,9 @@ title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 
+[author]
+name = "Jess Mann"
+
 [params]
 dateform        = "Jan 2, 2006"
 dateformShort   = "Jan 2"
@@ -36,6 +39,7 @@ series   = "series"
 title = "Jess Mann"
 subtitle = "Dumpling lover. Software Developer. Traveler."
 keywords = ""
+disableKinds = ["RSS"]
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 readOtherPosts = "Read other posts"
 
