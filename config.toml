@@ -54,6 +54,11 @@ name       = "Posts"
 url        = "/posts"
 
 [[menu.main]]
+identifier = "illutrations"
+name       = "Illutrations"
+url        = "/illutrations"
+
+[[menu.main]]
 identifier = "about"
 name       = "About"
 url        = "/about"
