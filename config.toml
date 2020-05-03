@@ -24,7 +24,7 @@ images = [""]
 contentTypeName = "posts"
 
 # Default theme "light" or "dark"
-defaultTheme = "dark"
+defaultTheme = "light"
 
 [taxonomies]
 category = "blog"
@@ -54,9 +54,9 @@ name       = "Posts"
 url        = "/posts"
 
 [[menu.main]]
-identifier = "illutrations"
-name       = "Illutrations"
-url        = "/illutrations"
+identifier = "illustrations"
+name       = "Illustrations"
+url        = "/illustrations"
 
 [[menu.main]]
 identifier = "about"
