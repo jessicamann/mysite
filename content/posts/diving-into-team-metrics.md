@@ -9,6 +9,7 @@ tags:
 ---
 
 Every other week, my team gathers to partake in a particular ceremony. It goes something like this:
+
 1. One of us pulls up a story from our backlog and summarizes the goals and expected outcome of the card.
 2. Another one of us starts counting down 3...2...1...
 3. All of us show our hands, with some arbitrary number of fingers in the air.
