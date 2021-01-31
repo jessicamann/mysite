@@ -8,8 +8,10 @@ images:
 
 {{< image src="/images/about.jpeg" alt="headshot" position="center" style="border-radius: 8px; margin-bottom:50px;" >}}
 
-I write code and break builds often - and fix them, of course, I'm not a monster.
+I like writing code and building quality into them from the start. I'm an advocate for cross-role collaboration: I 
+believe the right solution will come together when product and tech intersect. 
 
-I believe software is people oriented, from inception of an idea through the continuous delivery of the product. 
+I love traveling to experience different cultures and try different foods. Recently, I started bouldering, and
+currently working my way up from a v3.
  
 
