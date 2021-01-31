@@ -41,9 +41,9 @@ Here's an example of two software teams with the same "average" velocity
 
 > Team A completed 4, 10, 4 items each week in the past 3 weeks
 >
-> Team B completed 9, 9, 9 items each week in the past 3 weeks
+> Team B completed 6, 6, 6 items each week in the past 3 weeks
 
-Now, if both teams are aiming to complete 9 items next week, which team are you more confident will 
+Now, if both teams are aiming to complete 6 items next week, which team are you more confident will 
 achieve their goal?
 
 My guess is team B because they've been more consistent in the past.
