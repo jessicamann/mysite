@@ -53,7 +53,7 @@ My guess is team B because they've been more consistent in the past.
 Cycle time answers how long it takes for a single item to go through a stage. 
 
 On my team, I usually look at the cycle time for each item from the time a developer 
-(or pair) begins development, to when that same item gets fully deployed to production.
+(or pair) begins development, to when that same item is done (i.e. available in production).
 
 {{< image src="/images/demo-cycle-time.png" alt="cycle time" style="width: 640px">}}
 
